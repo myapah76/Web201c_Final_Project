@@ -8,6 +8,30 @@
 </head>
 
 <body>
+  <style>header{
+    background: #ff0000;
+}
+h1{
+    text-align: center;
+    color: #ffffff;
+    font-family: serif;
+    font-variant-caps:all-small-caps;
+}
+a{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #000000;
+    background-color: #eeeeee;
+}
+aside{
+    display: none;
+}
+section{
+    background-color: #d5fdff;
+}
+h2{
+    font-variant-caps: all-small-caps;
+    color: #0000ff;
+}</style>
   <header>
     <h1>Muhammad Ammar Ansari</h1>
     <nav>
